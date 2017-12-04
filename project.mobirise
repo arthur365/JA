@@ -38,7 +38,7 @@
       ]
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "4.5.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1416,13 +1416,6 @@
           "_protectedParams": [],
           "_global": true,
           "_once": true,
-          "_params": {}
-        },
-        {
-          "_name": "form3",
-          "_customHTML": "",
-          "_cid": "qCSyNj6czN",
-          "_protectedParams": [],
           "_params": {}
         }
       ]
