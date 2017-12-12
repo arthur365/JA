@@ -4109,14 +4109,6 @@ body {
     flex-shrink: 0;
   }
 }
-.cid-qDB0AI4B1w {
-  padding-top: 120px;
-  padding-bottom: 15px;
-  background-color: #f20a44;
-}
-.cid-qDB0AI4B1w .mbr-section-subtitle {
-  color: #767676;
-}
 .cid-qDB2mersSB {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -4132,4 +4124,12 @@ body {
 }
 .cid-qDB2mersSB .mbr-author-desc {
   color: #232;
+}
+.cid-qDB0AI4B1w {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #f20a44;
+}
+.cid-qDB0AI4B1w .mbr-section-subtitle {
+  color: #767676;
 }
