@@ -4111,9 +4111,25 @@ body {
 }
 .cid-qDB0AI4B1w {
   padding-top: 120px;
-  padding-bottom: 120px;
+  padding-bottom: 15px;
   background-color: #f20a44;
 }
 .cid-qDB0AI4B1w .mbr-section-subtitle {
   color: #767676;
+}
+.cid-qDB2mersSB {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.cid-qDB2mersSB .testimonial-text {
+  font-style: italic;
+  color: #676767;
+  font-weight: 300;
+}
+.cid-qDB2mersSB .mbr-author-name {
+  font-weight: bold;
+  color: #232;
+}
+.cid-qDB2mersSB .mbr-author-desc {
+  color: #232;
 }
