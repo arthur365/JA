@@ -3715,19 +3715,19 @@ body {
   text-align: left;
 }
 .cid-qDAU4Qfwrs {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #4d0564;
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/banner-4.gif");
 }
 .cid-qDAU4Qfwrs [class^="socicon-"]:before,
 .cid-qDAU4Qfwrs [class*=" socicon-"]:before {
   line-height: 44px;
 }
 .cid-qDAU4Qfwrs .btn-social {
-  border-color: #4d0564;
+  border-color: #767676;
 }
 .cid-qDAU4Qfwrs .btn-social:hover {
-  background: #4d0564;
+  background: #767676;
 }
 .cid-qDAU4Qfwrs .btn-social:hover i.socicon {
   color: #ffffff !important;
