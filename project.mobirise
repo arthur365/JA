@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JA ",
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3091,6 +3091,78 @@
                 "image": "@PROJECT_PATH@/assets/images/20171211-132440-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20171211-132440-2000x1500-800x600.jpg",
                 "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20171218-151003-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171218-151003-2000x1500-800x600.jpg",
+                "alt": "DRAIN",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20171218-151010-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171218-151010-2000x1500-800x600.jpg",
+                "alt": "DRAIN",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/swimming-pool-bass-2017-18-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/swimming-pool-bass-2017-18-2000x1500-800x600.jpg",
+                "alt": "DRAIN",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20171218-154546-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171218-154546-2000x1500-800x600.jpg",
+                "alt": "DRAIN",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20171219-144011-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171219-144011-2000x1500-800x600.jpg",
+                "alt": "DRAIN",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20171219-144016-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171219-144016-2000x1500-800x600.jpg",
+                "alt": "DRAIN",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": true
