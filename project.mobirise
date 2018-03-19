@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JA ",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     },
     "versionFirst": "4.2.3",
     "uniqCompNum": 68,
-    "versionPublish": "4.6.3",
+    "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
